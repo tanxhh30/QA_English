@@ -1,0 +1,22 @@
+[
+  { "q": "Is the sky blue?", "answers": ["Yes", "Of course", "Sure"] },
+  { "q": "Do you like pizza?", "answers": ["Yes", "I love pizza", "Of course"] },
+  { "q": "Is water important?", "answers": ["Yes", "Definitely", "Of course"] },
+  { "q": "Do you speak English?", "answers": ["Yes", "A little", "Of course"] },
+  { "q": "Is the sun hot?", "answers": ["Yes", "Of course", "Sure"] },
+  { "q": "Do you go to school?", "answers": ["Yes", "Of course", "Sure"] },
+  { "q": "Is 2 plus 2 equal to 4?", "answers": ["Yes", "Of course", "Sure"] },
+  { "q": "Do you like ice cream?", "answers": ["Yes", "I love it", "Of course"] },
+  { "q": "Is coffee a drink?", "answers": ["Yes", "Of course", "Sure"] },
+  { "q": "Do you like cats?", "answers": ["Yes", "I love cats", "Of course"] },
+  { "q": "Is a dog an animal?", "answers": ["Yes", "Of course", "Sure"] },
+  { "q": "Do you like music?", "answers": ["Yes", "Of course", "I love music"] },
+  { "q": "Is the earth round?", "answers": ["Yes", "Of course", "Sure"] },
+  { "q": "Do you like chocolate?", "answers": ["Yes", "I love chocolate", "Of course"] },
+  { "q": "Is reading good for you?", "answers": ["Yes", "Of course", "Definitely"] },
+  { "q": "Do you drink water every day?", "answers": ["Yes", "Of course", "Sure"] },
+  { "q": "Is football a sport?", "answers": ["Yes", "Of course", "Sure"] },
+  { "q": "Do you use the internet?", "answers": ["Yes", "Of course", "Every day"] },
+  { "q": "Is summer hot?", "answers": ["Yes", "Of course", "Sure"] },
+  { "q": "Do you like learning?", "answers": ["Yes", "Of course", "I love learning"] }
+]
